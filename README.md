@@ -58,10 +58,10 @@ txt
 # 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="160em" src="https://streak-stats.demolab.com?user=HannahElsayed&theme=radical"/>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=HannahElsayed&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HannahElsayed&show_icons=true&theme=radical"/>
+
+<img height="160em" src="https://streak-stats.demolab.com?user=HannahElsayed&theme=radical"/>
 
 </div>
 # 🌷 Connect With Me
