@@ -35,7 +35,7 @@
 
 # 🌸 Current Learning Goals
 
-```txt
+txt
 🌷 React Development
 🌷 Advanced CSS Challenges
 🌷 Better UI/UX Design Skills
@@ -70,6 +70,14 @@
 
 <a href="https://github.com/HannahElsayed">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:ehana0128@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/hanna-elsaied/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </div>
